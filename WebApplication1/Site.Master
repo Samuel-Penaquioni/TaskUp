@@ -17,7 +17,7 @@
     <link href="~/favicon.ico" rel="shortcut icon" type="image/x-icon" />
 
     <!-- Estilo -->
-    <link href="StyleSheet.css" type="StyleSheet" />
+    <link rel="stylesheet" href="StyleSheet.css"/>
 </head>
 <body>
     <form runat="server">
