@@ -3,7 +3,11 @@
     --cor-primaria: #10B981;
     --cor-de-fundo: #F9FAFB;
     --cor-de-texto: #111827;
-    background-color: var(--cor-de-fundo);
+}
+
+body 
+{
+    background-color: var(--cor-de-fundo) !important;
 }
 
 .navbar a 

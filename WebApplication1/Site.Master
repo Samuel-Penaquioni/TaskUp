@@ -17,7 +17,7 @@
     <link href="~/favicon.ico" rel="shortcut icon" type="image/x-icon" />
 
     <!-- Estilo -->
-    <link rel="stylesheet" href="StyleSheet.css"/>
+    <link rel="stylesheet" href="~/StyleSheet.css"/>
 </head>
 <body>
     <form runat="server">
@@ -61,7 +61,7 @@
             </asp:ContentPlaceHolder>
             <hr />
             <footer>
-                <p>&copy; <%: DateTime.Now.Year %> - Meu aplicativo ASP.NET</p>
+                <p style="color: var(--cor-de-texto);">&copy; <%: DateTime.Now.Year %> - TaskUp</p>
             </footer>
         </div>
     </form>
