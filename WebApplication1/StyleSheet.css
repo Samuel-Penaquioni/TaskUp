@@ -1,4 +1,17 @@
-﻿.navbar-bg
+﻿:root 
 {
-    background-color: #10B981;
+    --cor-primaria: #10B981;
+    --cor-de-fundo: #F9FAFB;
+    --cor-de-texto: #111827;
+    background-color: var(--cor-de-fundo);
+}
+
+.navbar a 
+{
+    color: var(--cor-de-texto);
+}
+
+.navbar-bg
+{
+    background-color: var(--cor-primaria);
 }
