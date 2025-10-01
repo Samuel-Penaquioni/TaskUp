@@ -2,8 +2,8 @@
 
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
     <main aria-labelledby="title">
-        <h2 id="title"><%: Title %>.</h2>
-        <h3>Your application description page.</h3>
-        <p>Use this area to provide additional information.</p>
+        <h2 id="title"> Sobre Nós</h2>
+        <h3>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Temporibus vero fuga reprehenderit vitae aliquam voluptatum consequatur quaerat nesciunt fugiat voluptates, dolorum cum maxime nemo! Placeat repudiandae eveniet perspiciatis recusandae!</h3>
+        
     </main>
 </asp:Content>

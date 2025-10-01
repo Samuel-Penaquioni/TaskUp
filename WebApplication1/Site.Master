@@ -61,7 +61,7 @@
             </asp:ContentPlaceHolder>
             <hr />
             <footer>
-                <p style="color: var(--cor-de-texto);">&copy; <%: DateTime.Now.Year %> - TaskUp</p>
+                <p>&copy; <%: DateTime.Now.Year %> - TaskUp</p>
             </footer>
         </div>
     </form>
