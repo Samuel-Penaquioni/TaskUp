@@ -56,11 +56,12 @@
                 </div>
             </div>
         </nav>
-        <div class="container body-content">
+        <div class="container-fluid body-content">
             <asp:ContentPlaceHolder ID="MainContent" runat="server">
             </asp:ContentPlaceHolder>
-            <hr />
-            <footer>
+
+            <footer class="col-10 mx-auto mt-3">
+                <hr />
                 <p>&copy; <%: DateTime.Now.Year %> - TaskUp</p>
             </footer>
         </div>
