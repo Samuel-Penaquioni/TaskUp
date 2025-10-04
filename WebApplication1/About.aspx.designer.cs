@@ -15,12 +15,12 @@ namespace WebApplication1
     {
 
         /// <summary>
-        /// Controle Image1.
+        /// Controle ImageSobre1.
         /// </summary>
         /// <remarks>
         /// Campo gerado automaticamente.
         /// Para modificar, mova a declaração de campo do arquivo de designer a um arquivo code-behind.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Image Image1;
+        protected global::System.Web.UI.WebControls.Image ImageSobre1;
     }
 }

@@ -9,7 +9,7 @@
         </div>
         <div class="row">
             <div class="col-8 mx-auto">
-                <asp:Image ID="Image1" runat="server" src="img/Homem%20de%20Terno%20para%20Exemplo.jpg" alt="imagem Circular" class="rounded-circle" Width="200" Height="200"/>
+                <asp:Image ID="ImageSobre1" runat="server" src="img/Homem%20de%20Terno%20para%20Exemplo.jpg" alt="imagem Circular" class="rounded-circle" Width="200" Height="200"/>
             </div>
         </div>
     </main>
